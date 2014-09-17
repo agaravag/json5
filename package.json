@@ -1,0 +1,12 @@
+{
+  "name": "simple-json-database",
+  "description": "simple-json-database",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.8.2",
+    "express": "^4.9.0"
+  }
+}
